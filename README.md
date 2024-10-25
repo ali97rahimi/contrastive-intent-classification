@@ -31,7 +31,7 @@ This repository implements a contrastive learning model using the LaBSE (Languag
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/contrastive-labse-intent-classification.git
+    git clone https://github.com/ali97rahimi/contrastive-labse-intent-classification.git
     cd contrastive-labse-intent-classification
     ```
 
